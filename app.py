@@ -4,7 +4,7 @@ import re
 
 # Load components
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
-model = joblib.load("svm_model.pkl")
+model = joblib.load("rf.pkl")
 label_mapping = joblib.load("label_mapping.pkl")
 
 def clean_text(text):
