@@ -22,9 +22,11 @@ The model was trained on a cleaned dataset containing labeled statements for:
 - Anxiety
 - Stress
 
+  https://mental-health-ml-app-knefb7lyemfhy9kvxnwfmk.streamlit.app/
+
 ## 🚀 How to Run Locally
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/mental-health-ml-app.git
+   git clone https://github.com/feraz391/mental-health-ml-app.git
    cd mental-health-ml-app
