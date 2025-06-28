@@ -22,7 +22,7 @@ Anxiety
 
 Stress
 
-https://mental-health-ml-app-knefb7lyemfhy9kvxnwfmk.streamlit.app/
+App link https://mental-health-ml-app-knefb7lyemfhy9kvxnwfmk.streamlit.app/
 
 🚀 How to Run Locally
 Clone this repo:
